@@ -1,1 +1,47 @@
-site_name: My Docs
+site_name: VaiPelaSombra
+theme:
+  name: material
+  language: pt-BR
+  logo: ../../Assets/logo_completa.png
+  favicon: ../../Assets/logo_completa.png
+
+  palette:
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: black
+      accent: pink
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.extra 
+
+
+nav:
+  - Sobre o projeto: index.md
+  - 1. Links Importantes: LinksImportantes/index.md
+  - 2. FrontEnd: FrontEnd/index.md
+  - 3. BackEnd: BackEnd/index.md

@@ -1,17 +1,27 @@
-# Welcome to MkDocs
+# Vai Pela Sombra
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 💡 Introdução
 
-## Commands
+O objetivo deste repositório é.....
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## 👥 Alunos
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<center>
+
+| Matrícula   | Nome                                       |                                                                                          |
+|-------------|--------------------------------------------|------------------------------------------------------------------------------------------|
+| 211030676   | [Renann de Oliveira](https://github.com/renannOgomes) | <img src="https://github.com/renannOgomes.png" width="120px">                           |
+
+
+Tabela 1: Integrantes
+</center>
+
+## Sobre
+
+A plataforma Vai Pela Sombra
+
+## Descritivo dos Principais Aspectos Técnicos
+
+## 👨‍💻 Guia de Instalação
+
