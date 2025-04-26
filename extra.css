@@ -1,0 +1,30 @@
+.centered-image {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px; /* largura máxima */
+    width: 100%; /* ocupa 100% até o limite de 400px */
+    height: auto; /* mantém o aspect ratio */
+}
+
+.flex-container {
+    display: flex;
+    align-items: flex-start; /* Alinha imagem e texto no topo */
+    gap: 20px; /* Espaço entre imagem e texto */
+    flex-wrap: wrap; /* Para responsividade: quebra para baixo se necessário */
+}
+
+.flex-image-container {
+    max-width: 300px;
+    width: 100%;
+}
+
+.flex-image {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+}
+
+.flex-text {
+    flex: 1; /* O texto ocupa o espaço restante */
+}
