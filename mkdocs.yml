@@ -42,6 +42,9 @@ markdown_extensions:
 
 nav:
   - Sobre o projeto: index.md
-  - 1. Links Importantes: LinksImportantes/index.md
+  - 1. Análise de Requisitos: Requisitos/index.md
   - 2. FrontEnd: FrontEnd/index.md
   - 3. BackEnd: BackEnd/index.md
+
+extra_css:
+  - extra.css 
