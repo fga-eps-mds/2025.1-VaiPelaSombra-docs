@@ -2,8 +2,8 @@ site_name: VaiPelaSombra
 theme:
   name: material
   language: pt-BR
-  logo: ../../Assets/logo_completa.png
-  favicon: ../../Assets/logo_completa.png
+  logo: ../../img/logo_completa.png
+  favicon: ../../img/logo_completa.png
 
   palette:
 
