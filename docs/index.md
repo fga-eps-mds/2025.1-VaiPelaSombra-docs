@@ -16,14 +16,16 @@
 </div>
 
 
-## Sobre
+## 🏖️ Sobre
 
-A plataforma Vai Pela Sombra
+A plataforma "Vai Pela Sombra" teve como inspiração solucionar problemas recorrentes encontrados diariamente 
+durante o planejamento de uma viagem, ela é um ferramenta que pode ser usada tanto antes da viagem, para auxiliar no planejamento
+quanto durante a viagem, sugerindo roteiros interessantes.
+O objetivo é solucionar os problemas principais, como:
 
-## Descritivo dos Principais Aspectos Técnicos
-
-## 👨‍💻 Guia de Instalação
-
+1. Organização de roteiros de viagem 🗺️;
+2. Comparar preços de passagens e estadia 💲;
+3. Compartilhar roteiros de viagem com demais usuários 👋;
 
 ## 👥 Alunos
 
