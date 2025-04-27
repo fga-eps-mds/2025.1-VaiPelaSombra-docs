@@ -11,6 +11,11 @@ https://www.figma.com/board/TkllK6PIqr8cWuma3P36RG/Template-Lean-Inception---Bac
     </iframe>
 </div>
 
+### Canvas MVP:
+Com base nas etapas do Lean Inception realizadas acima, foi elaborado o Canvas MVP abaixo:
+<div style="position: relative; overflow: hidden;">
+    <img src="../img/canvas_mvp.png" alt="canvas mvp" class="flex-image">
+</div>
 
 ### Backlog: 
 https://www.figma.com/board/jNd881zfbb6mxiYaqT3eya/BackLog?node-id=0-1&p=f&t=wdSosRatpJg0053S-0 
