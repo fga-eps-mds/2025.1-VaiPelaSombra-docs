@@ -49,7 +49,7 @@ nav:
   - 3. BackEnd: 
     - 3.1. BackEnd Estrutura: BackEnd/index.md
     - 3.2. BackEnd Dojos: BackEnd/Dojos/index.md
-  - 4. Documento de Arquitetura: DocArquiterua/DocumentoArquitetura.md
+  - 4. Documento de Arquitetura: DocArquitetura/DocumentoArquitetura.md
 
 extra_css:
   - extra.css 
