@@ -29,8 +29,6 @@ O objetivo é solucionar os problemas principais, como:
 
 ## 👥 Alunos
 
-<center>
-
 | Matrícula   | Nome                                       |                                                                                          |
 |-------------|--------------------------------------------|------------------------------------------------------------------------------------------|
 | 211030676   | [Renann de Oliveira](https://github.com/renannOgomes) | <img src="https://github.com/renannOgomes.png" width="120px">                           |
@@ -49,7 +47,5 @@ O objetivo é solucionar os problemas principais, como:
 | 221031318   | [Juan Carlos Mota Magalhães] | <img src="https://github.com/testestes.png" width="120px">                               |
 
 
-
 Tabela 1: Integrantes
-</center>
 
