@@ -46,11 +46,13 @@ nav:
   - 2. FrontEnd: 
     - 2.1. FrontEnd Estrutura: FrontEnd/index.md
     - 2.2. FrontEnd Dojos: FrontEnd/Dojos/index.md
+    - 2.3. Guia de Estilo: FrontEnd/DocGuiaDeEstilo/index.md
   - 3. BackEnd: 
     - 3.1. BackEnd Estrutura: BackEnd/index.md
     - 3.2. BackEnd Dojos: BackEnd/Dojos/index.md
   - 4. Documento de Arquitetura: DocArquitetura/DocumentoArquitetura.md
   - 5. Acompanhamento de Valor Agregado: DocValorAgregado/index.md
+  - 6. Guia de Contribuição: DocGuiaDeContribuicao/index.md
 
 extra_css:
   - extra.css 
