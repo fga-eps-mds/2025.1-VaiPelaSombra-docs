@@ -3,7 +3,7 @@
 
 ## 1 Cores:
 
-![Paleta de cores](..\img\paletaCoresVaiPelaSombra.png)
+![Paleta de cores](../../\img\paletaCoresVaiPelaSombra.png)
 
 #### Cores principais
 
