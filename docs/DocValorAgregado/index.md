@@ -129,3 +129,7 @@ Logo ao fim de cada Sprint, o gráfico será atualizado com os valores, da segui
     }
   });
 </script>
+
+|Versão|Data|Descrição|Autor(s)|
+|---|---|---|---|
+|1.0| 01/05 | Criação da pagina e gráfico de valor agregado |[Rennan](https://github.com/renannOgomes)|s
