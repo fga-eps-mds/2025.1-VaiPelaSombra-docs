@@ -46,11 +46,34 @@ nav:
   - 2. FrontEnd: 
     - 2.1. FrontEnd Estrutura: FrontEnd/index.md
     - 2.2. FrontEnd Dojos: FrontEnd/Dojos/index.md
+    - 2.3. Guia de Estilo: FrontEnd/DocGuiaDeEstilo/index.md
   - 3. BackEnd: 
     - 3.1. BackEnd Estrutura: BackEnd/index.md
     - 3.2. BackEnd Dojos: BackEnd/Dojos/index.md
   - 4. Documento de Arquitetura: DocArquitetura/DocumentoArquitetura.md
-  - 5. Acompanhamento de Valor Agregado: DocValorAgregado/index.md
+  - 5. Guia de Contribuição: DocGuiaDeContribuicao/index.md
+  - 6. Sprints:
+    - 6.1 Acompanhamento de Valor Agregado: Sprints/DocValorAgregado/index.md
+    - 6.2 Sprint 1: 
+      - 6.2.1 Planning: Sprints/Sprint1/Planning.md
+      - 6.2.2 Review: Sprints/Sprint1/Review.md
+      - 6.2.3 Retrospective: Sprints/Sprint1/Retrospective.md
+    - 6.3 Sprint 2: 
+      - 6.3.1 Planning: Sprints/Sprint2/Planning.md
+      - 6.3.2 Review: Sprints/Sprint2/Review.md
+      - 6.3.3 Retrospective: Sprints/Sprint2/Retrospective.md
+    - 6.4 Sprint 3: 
+      - 6.4.1 Planning: Sprints/Sprint3/Planning.md
+      - 6.4.2 Review: Sprints/Sprint3/Review.md
+      - 6.4.3 Retrospective: Sprints/Sprint3/Retrospective.md
+    - 6.5 Sprint 4: 
+      - 6.5.1 Planning: Sprints/Sprint4/Planning.md
+      - 6.5.2 Review: Sprints/Sprint4/Review.md
+      - 6.5.3 Retrospective: Sprints/Sprint4/Retrospective.md
+    - 6.6 Sprint 5: 
+      - 6.6.1 Planning: Sprints/Sprint5/Planning.md
+      - 6.6.2 Review: Sprints/Sprint5/Review.md
+      - 6.6.3 Retrospective: Sprints/Sprint5/Retrospective.md 
 
 extra_css:
   - extra.css 

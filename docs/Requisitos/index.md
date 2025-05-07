@@ -23,3 +23,8 @@ https://www.figma.com/board/jNd881zfbb6mxiYaqT3eya/BackLog?node-id=0-1&p=f&t=wdS
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/board/jNd881zfbb6mxiYaqT3eya/BackLog?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 </div>
+
+
+|Versão|Data|Descrição|Autor(s)|
+|---|---|---|---|
+|1.0| 26/04 | Criação do gitpages e paginas iniciais |[Rennan](https://github.com/renannOgomes)|

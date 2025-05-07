@@ -77,13 +77,13 @@ Logo ao fim de cada Sprint, o gráfico será atualizado com os valores, da segui
     cumulativeSum += (item/orçamentoTotal) *100;
     return cumulativeSum
   });
-  const valuesActualValue = [0];
+  const valuesActualValue = [0]; //Adicione itens aqui 
   cumulativeSum = 0;
   const actualValues = valuesActualValue.map(item => {
     cumulativeSum += (item/orçamentoTotal) *100;
     return cumulativeSum
   });
-  const valuesEarnedValue = [0];
+  const valuesEarnedValue = [0]; //Adicione itens aqui
   cumulativeSum = 0;
   const earnedValues = valuesEarnedValue.map(item => {
     cumulativeSum += (item/orçamentoTotal) *100;
@@ -129,3 +129,7 @@ Logo ao fim de cada Sprint, o gráfico será atualizado com os valores, da segui
     }
   });
 </script>
+
+|Versão|Data|Descrição|Autor(s)|
+|---|---|---|---|
+|1.0| 01/05 | Criação da pagina e gráfico de valor agregado |[Rennan](https://github.com/renannOgomes)|s
