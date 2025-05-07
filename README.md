@@ -33,7 +33,7 @@ O objetivo é solucionar os problemas principais, como:
 |-------------|--------------------------------------------|------------------------------------------------------------------------------------------|
 | 211030676   | [Renann de Oliveira](https://github.com/renannOgomes) | <img src="https://github.com/renannOgomes.png" width="120px">                           |
 | 200025791   | [Pablo Guilherme de Jesus Batista Silva](https://github.com/PabloGJBS) | <img src="https://github.com/PabloGJBS.png" width="120px">                               |
-| 211045196   | [Suzane Alves Duarte](https://github.com/suzaneaduarte) | <img src="https://github.com/suzaneaduarte.png" width="120px">                           |
+| 211045196   | [Suzane Alves Duarte](https://github.com/suzaneaduarte) | <img src="https://github.com/suzaneaduarte.png" width="120px">|
 | 190033011   | [Luana Souza Silva Torres](https://github.com/luanatorress) | <img src="https://github.com/luanatorress.png" width="120px">                           |
 | 251035022   | [Camile Barbosa Gonzaga de Oliveira](https://github.com/Camile0318) | <img src="https://github.com/Camile0318.png" width="120px">                              |
 | 211061681   | [Estevão Magalhães Monteiro](https://github.com/Estevao468) | <img src="https://github.com/Estevao468.png" width="120px">                              |
