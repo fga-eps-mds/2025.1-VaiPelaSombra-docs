@@ -1,10 +1,18 @@
 # Planning 
 
 ## Sprint Backlog
+
 Issues | Pontuação | Concluído
 ------------ | -------------- | :--------:
-Issue exemplo 1 | 0 | ✅ 
-Issue exemplo 2 | 0 | ❌ 
+[DOC] - Criar Gitpages com estrutura inicial #1 | 0 | ✅ 
+[DOC] - Revisar Lean Inception e finalizá-lo #2 | 0 | ✅ 
+[DOC] - Criar planejamento de riscos do projeto  #3 | 0 | ✅ 
+[DOC] - Criar Documento de Guia de Contribuição #5 | 0 | ✅ 
+[DOC] - Criar documento de Guia de Estilo #6 | 0 | ✅ 
+[INFRA] - Criar Estrutura básica da API #7 | 0 | ✅ 
+[INFRA] - Criar Banco de Dados #8 | 0 | ✅ 
+[INFRA] - Criar Estrutura básica da Front #10 | 0 | ✅ 
+[DOCS] Adicionando artefatos das Sprints #14 | 0 | ✅ 
 
 Total de Pontos = 0
 
@@ -34,3 +42,4 @@ Todos integrantes de MDS ficaram como DESENVOLVEDORES
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
 | 05/05/23 | 1.0 | Adicionando sprint planning, retrospective e review | [Rennan](https://github.com/renannOgomes)|
+| 15/05/23 | 1.5 | Atualizando issues | [Rennan](https://github.com/renannOgomes)|
