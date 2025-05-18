@@ -86,21 +86,14 @@ A camada de View, no contexto do backend, é representada pelas respostas format
 
 ![alt text](./assets/classesUMl.png)
 
-<center> 
-
-*Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)*
-
-</center>
+<p align="center"><em>Fonte: <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></em></p>
 
 #### 4.3 Fluxograma 1
 
 ![alt text](./assets/fluxograma1.png)
 
-<center> 
+<p align="center"><em>Fonte: <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></em></p>
 
-*Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)*
-
-</center>
 ### 5 Visão de Implementação
 
 #### 5.1 DeR - Diagrama Entidade e Relacionamento
@@ -109,11 +102,7 @@ A seguir apresentamos o Diagrama Entidade Relacionamento do projeto
 
 ![Diagrama Entidade Relacionamento](./assets/imagemDER.png)
 
-<center> 
-
-*Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)*
-
-</center>
+<p align="center"><em>Fonte: <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></em></p>
 
 Descrição do Diagrama Entidade-Relacionamento (DER)
 
