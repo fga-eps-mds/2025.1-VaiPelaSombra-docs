@@ -84,11 +84,11 @@ A camada de View, no contexto do backend, é representada pelas respostas format
 
 #### 4.2 Diagrama de classes UML
 
-![alt text](image.png)
+![alt text](./assets/classesUMl.png)
 
 <center> 
 
-*Fonte: [Pablo Guilherme](./assets/classesUMl.png)*
+*Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)*
 
 </center>
 
