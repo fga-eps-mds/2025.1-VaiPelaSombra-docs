@@ -77,13 +77,13 @@ Logo ao fim de cada Sprint, o gráfico será atualizado com os valores, da segui
     cumulativeSum += (item/orçamentoTotal) *100;
     return cumulativeSum
   });
-  const valuesActualValue = [0]; //Adicione itens aqui 
+  const valuesActualValue = [0, 10]; //Adicione itens aqui Valor GASTO em cada Sprint /Add esforço 
   cumulativeSum = 0;
   const actualValues = valuesActualValue.map(item => {
     cumulativeSum += (item/orçamentoTotal) *100;
     return cumulativeSum
   });
-  const valuesEarnedValue = [0]; //Adicione itens aqui
+  const valuesEarnedValue = [0, 0]; //Adicione itens aqui Valor GANHO em cada Sprint /Add Esforço + Ux + Negócio
   cumulativeSum = 0;
   const earnedValues = valuesEarnedValue.map(item => {
     cumulativeSum += (item/orçamentoTotal) *100;
