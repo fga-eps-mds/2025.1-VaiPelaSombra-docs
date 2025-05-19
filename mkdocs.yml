@@ -48,6 +48,10 @@ nav:
     - 3. Lean Inception: OrganizacaoProjeto/LeanInception/index.md
     - 4. BackLog: OrganizacaoProjeto/BackLog/index.md
     - 5. Plano de Comunicação: DocComunicacao/DocComunicacao.md
+    - 6. Templates:
+      - 6.1. Planning: OrganizacaoProjeto/Templates/Planning.md
+      - 6.2. Retrospective: OrganizacaoProjeto/Templates/Retro.md
+      - 6.3. Review: OrganizacaoProjeto/Templates/Review.md
   - 2. FrontEnd: 
     - 2.1. FrontEnd Estrutura: FrontEnd/index.md
     - 2.2. FrontEnd Dojos: FrontEnd/Dojos/index.md
