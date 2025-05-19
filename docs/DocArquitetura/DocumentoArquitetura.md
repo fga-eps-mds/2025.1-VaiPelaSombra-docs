@@ -82,7 +82,17 @@ Os Controllers são responsáveis por receber as requisições HTTP, processar a
 
 A camada de View, no contexto do backend, é representada pelas respostas formatadas em JSON que são retornadas aos consumidores da API. Já a View completa da aplicação é implementada no frontend, utilizando os recursos do React para apresentar dados ao usuário de forma interativa, responsiva e dinâmica. O React atua tanto como template quanto como controlador local de estado de interface.
 
-#### 4.2 Diagrama 1
+#### 4.2 Diagrama de classes UML
+
+![alt text](./assets/classesUMl.png)
+
+<p align="center"><em>Fonte: <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></em></p>
+
+#### 4.3 Fluxograma 1
+
+![alt text](./assets/fluxograma1.png)
+
+<p align="center"><em>Fonte: <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></em></p>
 
 ### 5 Visão de Implementação
 
@@ -92,11 +102,7 @@ A seguir apresentamos o Diagrama Entidade Relacionamento do projeto
 
 ![Diagrama Entidade Relacionamento](./assets/imagemDER.png)
 
-<center> 
-
-*Fonte: [Pablo Guilherme](https://github.com/PabloGJBS)*
-
-</center>
+<p align="center"><em>Fonte: <a href="https://github.com/PabloGJBS">Pablo Guilherme</a></em></p>
 
 Descrição do Diagrama Entidade-Relacionamento (DER)
 
@@ -307,3 +313,4 @@ Esses aspectos contribuem para a confiabilidade e longevidade da aplicação, to
 |1.0| 25/04| criação inicial do documento de arquitetura|[Pablo Guilherme](https://github.com/PabloGJBS)|
 |1.1| 28/04| adicionando diagramas DER, DLD e de Relações e descrições do banco de dados |[Pablo Guilherme](https://github.com/PabloGJBS)|
 |1.2| 07/05| Correções para o modelo monolitico, alterações na modelagem |[Pablo Guilherme](https://github.com/PabloGJBS)|
+|1.3| 18/05| Adicionando diagramas |[Pablo Guilherme](https://github.com/PabloGJBS)|

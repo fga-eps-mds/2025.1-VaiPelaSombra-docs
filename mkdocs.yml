@@ -42,7 +42,11 @@ markdown_extensions:
 
 nav:
   - Sobre o projeto: index.md
-  - 1. Análise de Requisitos: Requisitos/index.md
+  - 1. Organização do Projeto: 
+    - 1. Metodologias: OrganizacaoProjeto/index.md
+    - 2. Termo de Abertura: OrganizacaoProjeto/TermodeAbertura/index.md
+    - 3. Lean Inception: OrganizacaoProjeto/LeanInception/index.md
+    - 4. BackLog: OrganizacaoProjeto/BackLog/index.md
   - 2. FrontEnd: 
     - 2.1. FrontEnd Estrutura: FrontEnd/index.md
     - 2.2. FrontEnd Dojos: FrontEnd/Dojos/index.md
