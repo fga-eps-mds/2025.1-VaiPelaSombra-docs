@@ -1,4 +1,7 @@
-# Planning 
+# Planning – Sprint 1
+
+Data de Início da Sprint 1: 28/04/2025
+Data de Término da Sprint 1: 05/05/2025
 
 ## Sprint Backlog
 
