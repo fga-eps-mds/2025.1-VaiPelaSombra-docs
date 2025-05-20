@@ -1,33 +1,26 @@
 # Vai Pela Sombra
-## 💡 Introdução
 
-<div class="flex-container">
-  <div class="flex-text">
-    O Objetivo desse repositório é centralizar e facilitar o acesso a informações relacionadas aos desenvolvimento da plataforma "Vai Pela Sombra", foram divididas em 3 grandes tópicos: 
-    <ul>
-      <li><a href="Requisitos/">Requisitos</a></li>
-      <li><a href="FrontEnd/">FrontEnd</a></li>
-      <li><a href="BackEnd/">BackEnd</a></li>
-    </ul>
-  </div>
-  <div class="flex-image-container">
-    <img src="../../docs/img/logopequenaVaiPelaSombra.jpeg" alt="logo completa" class="flex-image">
-  </div>
-</div>
+## Objetivo do Repositório
 
+O objetivo deste repositório é centralizar e facilitar o acesso a informações relacionadas ao desenvolvimento da plataforma **Vai Pela Sombra**. Os conteúdos foram organizados em três grandes tópicos:
 
-## 🏖️ Sobre
+- [Documentação](https://github.com/fga-eps-mds/2025.1-VaiPelaSombra-docs)
+- [FrontEnd](https://github.com/fga-eps-mds/2025.1-VaiPelaSombra-FrontEnd)
+- [BackEnd](https://github.com/fga-eps-mds/2025.1-VaiPelaSombra-BackEnd)
+
+![](../img/logoVaiPelaSombra.jpeg)
+
+## Sobre
 
 A plataforma "Vai Pela Sombra" teve como inspiração solucionar problemas recorrentes encontrados diariamente 
-durante o planejamento de uma viagem, ela é um ferramenta que pode ser usada tanto antes da viagem, para auxiliar no planejamento
-quanto durante a viagem, sugerindo roteiros interessantes.
+durante o planejamento de uma viagem, ela é um ferramenta que pode ser usada tanto antes da viagem para auxiliar no planejamento, quanto durante a viagem, sugerindo roteiros interessantes.
 O objetivo é solucionar os problemas principais, como:
 
 1. Organização de roteiros de viagem 🗺️;
 2. Comparar preços de passagens e estadia 💲;
 3. Compartilhar roteiros de viagem com demais usuários 👋;
 
-## 👥 Alunos
+## Alunos
 
 | Matrícula   | Nome                                       |                                                                                          |
 |-------------|--------------------------------------------|------------------------------------------------------------------------------------------|
@@ -44,8 +37,4 @@ O objetivo é solucionar os problemas principais, como:
 | 190128160   | [Guilherme Maciel de Meneses](https://github.com/Guilhermemm3) | <img src="https://github.com/Guilhermemm3.png" width="120px">                            |
 | 211061930   | [João Lucas Ramos dos Reis](https://github.com/joaolramos) | <img src="https://github.com/joaolramos.png" width="120px">                              |
 | 232014487   | [Luiz Claudio Barbosa de Farias](https://github.com/LuizFarias21) | <img src="https://github.com/LuizFarias21.png" width="120px">                            |
-| 221031318   | [Juan Carlos Mota Magalhães] | <img src="https://github.com/testestes.png" width="120px">                               |
-
-
-Tabela 1: Integrantes
-
+| 221031318   | [Juan Carlos Mota Magalhães](https://github.com/Kodomoppoi) | <img src="https://github.com/testestes.png" width="120px">                               |

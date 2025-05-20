@@ -1,8 +1,10 @@
 # Protótipo VaiPelaSombra
 
-## Intro
+## Introdução
 
 No projeto, optou-se por iniciar diretamente a construção de um protótipo de alta fidelidade. Para viabilizar essa abordagem, a equipe de EPS elaborou um projeto modelo e conduziu um dojo com foco na ferramenta escolhida. Essa atividade teve como objetivo proporcionar uma introdução básica ao seu uso e permitir a criação colaborativa das primeiras telas do sistema.
+
+Além disso, também foram realizadas reuniões internas entre os membros de cada squad durante a sprint 1, para melhor entendimento do figma. 
 
 ## Dojo De Figma
 
