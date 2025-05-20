@@ -11,7 +11,7 @@
     </ul>
   </div>
   <div class="flex-image-container">
-    <img src="img/logo_completa.png" alt="logo completa" class="flex-image">
+    <img src="../../docs/img/logopequenaVaiPelaSombra.jpeg" alt="logo completa" class="flex-image">
   </div>
 </div>
 

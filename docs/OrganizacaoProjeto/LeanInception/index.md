@@ -160,13 +160,15 @@ O custo e cronograma estimado para essa entrega inclui três meses de desenvolvi
 
 <p style="text-align: center;"><em>Fonte: <a href="https://www.figma.com/board/TkllK6PIqr8cWuma3P36RG/Template-Lean-Inception---Backup?node-id=14945-1604&t=B6kTRge9GEBdl8zj-0">Template Lean Inception VaiPelaSombra</a></em></p>
 
-
 ## 5. Referências
 
-* CAROLI, Paulo. Lean Inception: Como alinhar as pessoas e construir o produto certo. 1. ed. atual. São Paulo: Caroli, 2018. ISBN 978-85-94377-06-7. E-book.
-* SILVA, Danilo. Lean Inception na prática: um guia para facilitar sua primeira. Medium, 2021. Disponível em: https://medium.com/@danilolms/lean-inception-na-pr%C3%A1tica-um-guia-para-facilitar-sua-primeira-f0d69a67c60
-* MOURA, Victor. Planejamento incremental e priorização de entregas com sequenciador. Medium, 2022. Disponível em: https://medium.com/@victormoura/sequenciador-na-lean-inception-como-funciona-331ccf4f23b0
-* RIES, Eric. A Startup Enxuta: Como usar a inovação contínua para criar negócios radicalmente bem-sucedidos. Alta Books, 2012.
+> CAROLI, Paulo. Lean Inception: Como alinhar as pessoas e construir o produto certo. 1. ed. atual. São Paulo: Caroli, 2018. ISBN 978-85-94377-06-7. E-book.
+
+> SILVA, Danilo. Lean Inception na prática: um guia para facilitar sua primeira. Medium, 2021. Disponível em: https://medium.com/@danilolms/lean-inception-na-pr%C3%A1tica-um-guia-para-facilitar-sua-primeira-f0d69a67c60
+
+> MOURA, Victor. Planejamento incremental e priorização de entregas com sequenciador. Medium, 2022. Disponível em: https://medium.com/@victormoura/sequenciador-na-lean-inception-como-funciona-331ccf4f23b0
+
+> RIES, Eric. A Startup Enxuta: Como usar a inovação contínua para criar negócios radicalmente bem-sucedidos. Alta Books, 2012.
 
 ## 6. Histórico de versão
 

@@ -2,8 +2,8 @@ site_name: VaiPelaSombra
 theme:
   name: material
   language: pt-BR
-  logo: ../../img/logo_completa.png
-  favicon: ../../img/logo_completa.png
+  logo: ../../img/logoVaiPelaSombra.jpeg
+  favicon: ../../img/logopequenaVaiPelaSombra.jpeg
 
   palette:
 
@@ -52,6 +52,8 @@ nav:
       - 6.1. Planning: OrganizacaoProjeto/Templates/Planning.md
       - 6.2. Retrospective: OrganizacaoProjeto/Templates/Retro.md
       - 6.3. Review: OrganizacaoProjeto/Templates/Review.md
+    - 7. Prototipo: OrganizacaoProjeto/Prototipo/prototipo.md
+    - 8. Riscos: OrganizacaoProjeto/Riscos/Riscos.md
   - 2. FrontEnd: 
     - 2.1. FrontEnd Estrutura: FrontEnd/index.md
     - 2.2. FrontEnd Dojos: FrontEnd/Dojos/index.md

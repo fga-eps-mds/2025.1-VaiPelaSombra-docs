@@ -306,7 +306,9 @@ Esses aspectos contribuem para a confiabilidade e longevidade da aplicação, to
 
 ### 8 Referências
 
-### Tabela de Versionamento
+> Documento de arquitetura do projeto PC-GO1, disponivel em: https://fga-eps-mds.github.io/2021.1-PC-GO1/doc_arquitetura/
+
+### Historico de Versão
 
 |Versão|Data|Descrição|Autor(s)|
 |---|---|---|---|

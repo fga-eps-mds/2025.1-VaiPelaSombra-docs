@@ -23,7 +23,7 @@ Considerando que as _sprints_ serão de 1 semana, teremos reuniões internas com
 
 |**Objetivo**|**Envolvidos**|**Frequência**|**Dia e Horário**|**Meio**|**Ferramenta**(ou local)|
 |------------|--------------|--------------|-----------|--------|--------|
-|Planejamento de *sprint*| EPS e MDS| Semanal | Segunda-Feira as 20:00hrs|Remoto|Teams|
+|Planejamento de *sprint*| EPS e MDS| Semanal | Terça-Feira as 20:00hrs|Remoto|Teams|
 
 
 ## 4. Referências

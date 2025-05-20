@@ -1,4 +1,4 @@
-# Retrospective – Sprint 1
+# Retrospective – Sprint 2
 
 Este documento apresenta os principais resultados da retrospectiva na Sprint 2 do projeto **Vai Pela Sombra**, com base nas respostas dos membros da equipe por meio de um formulário. O objetivo da retrospectiva é refletir sobre o que funcionou bem, o que pode ser melhorado e alinhar expectativas para as próximas sprints.
 
@@ -100,4 +100,5 @@ Trechos representativos retirados das respostas recebidas no formulário:
 ## Histórico de Revisão
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
-| 14/05/23 | 1.0 | Adicionando sprint planning, retrospective e review da Sprint2| [Rennan](https://github.com/renannOgomes)|
+| 14/05 | 1.0 | Adicionando template da sprint planning, retrospective e review da Sprint2| [Rennan](https://github.com/renannOgomes)|
+| 19/05 | 2.0 | Adicionando  conteúdo da Retrospectiva | [Suzane Duarte](https://github.com/suzaneaduarte)|

@@ -4,6 +4,7 @@
 
 - NodeJS
 - Typescript
+- Prisma
 
 ## Repositório do BackEnd
 
@@ -17,3 +18,4 @@
 |---|---|---|---|
 |1.0| 26/04 | Criação do gitpages e paginas iniciais |[Rennan](https://github.com/renannOgomes)|
 |1.1| 28/04 | Correções na estrutura da pagina |[Pablo Guilherme](https://github.com/PabloGJBS)|
+|1.2| 19/05 | Adicionando o Prisma como tecnologia |[Luana Torres](https://github.com/luanatorress)|
