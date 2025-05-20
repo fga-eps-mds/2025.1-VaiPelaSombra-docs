@@ -1,7 +1,7 @@
 # Planning – Sprint 3
 
-Data de Início da Sprint 2: 12/05/2025
-Data de Término da Sprint 2: 19/05/2025
+Data de Início da Sprint 3: 12/05/2025
+Data de Término da Sprint 3: 19/05/2025
 
 ## Sprint Backlog
 

@@ -47,7 +47,9 @@ nav:
     - 2. Termo de Abertura: OrganizacaoProjeto/TermodeAbertura/index.md
     - 3. Lean Inception: OrganizacaoProjeto/LeanInception/index.md
     - 4. BackLog: OrganizacaoProjeto/BackLog/index.md
-    - 5. Plano de Comunicação: DocComunicacao/DocComunicacao.md
+    - 5. Planos e Monitoramento: 
+      - 5.1. Plano de Comunicação: OrganizacaoProjeto/Planos/DocComunicacao.md
+      - 5.2. Plano de Qualidade: OrganizacaoProjeto/Planos/planoqualidade.md
     - 6. Templates:
       - 6.1. Planning: OrganizacaoProjeto/Templates/Planning.md
       - 6.2. Retrospective: OrganizacaoProjeto/Templates/Retro.md

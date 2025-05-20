@@ -130,6 +130,10 @@ Logo ao fim de cada Sprint, o gráfico será atualizado com os valores, da segui
   });
 </script>
 
+# Referências
+>[1] CASTRO, António Agostinho Freitas. Estudo da utilização do EVM em ambientes ágeis. 2022. Tese de Doutorado. Acesso em: 01 de maio de 2025
+
+# Histórico de Versões 
 |Versão|Data|Descrição|Autor(s)|
 |---|---|---|---|
 |1.0| 01/05 | Criação da pagina e gráfico de valor agregado |[Rennan](https://github.com/renannOgomes)|s
