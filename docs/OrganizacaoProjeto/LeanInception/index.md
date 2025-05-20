@@ -142,6 +142,12 @@ A matriz foi organizada em 10 ciclos de entrega, considerando critérios como va
 
 Já recursos com maior grau de sofisticação, como integração com calendários, cronograma dinâmico, recomendações baseadas em avaliações e chat para auxílio no planejamento, foram alocados nos ciclos intermediários ou finais, sendo considerados como incrementos a serem desenvolvidos após a validação inicial do produto.
 
+Primeira versão: 
+
+![Sequenciador](../assets/sequenciador-versao1.png)
+
+Segunda versão, após ajustes no escopo: 
+
 ![Sequenciador](../assets/sequenciador.png)
 
 <p style="text-align: center;"><em>Fonte: <a href="https://www.figma.com/board/TkllK6PIqr8cWuma3P36RG/Template-Lean-Inception---Backup?node-id=14945-1604&t=B6kTRge9GEBdl8zj-0">Template Lean Inception VaiPelaSombra</a></em></p>

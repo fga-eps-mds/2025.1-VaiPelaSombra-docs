@@ -56,6 +56,7 @@ nav:
       - 6.3. Review: OrganizacaoProjeto/Templates/Review.md
     - 7. Prototipo: OrganizacaoProjeto/Prototipo/prototipo.md
     - 8. Riscos: OrganizacaoProjeto/Riscos/Riscos.md
+    - 9. Gráfico de Gantt: OrganizacaoProjeto/gantt.md
   - 2. FrontEnd: 
     - 2.1. FrontEnd Estrutura: FrontEnd/index.md
     - 2.2. FrontEnd Dojos: FrontEnd/Dojos/index.md
