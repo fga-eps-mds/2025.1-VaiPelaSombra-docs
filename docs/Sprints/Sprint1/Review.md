@@ -1,5 +1,10 @@
 # Review – Sprint 1
 
+## Histórico de Revisão
+| Data | Versão | Descrição | Autor(es)|
+|:----:|:------:|:---------:|:--------:|
+| 05/05 | 1.0 | Adicionando sprint planning, retrospective e review | [Rennan](https://github.com/renannOgomes)|
+
 ## Quando
 Essa sprint se iniciou no dia 28/03/2025 e durou 7 dias terminando dia 04/05/2025 
 
@@ -25,12 +30,6 @@ Não houve pontuação nessa sprint
 Com base nos dados que foram coletados no ínicio da Sprint1, foi elaborado esse gráfico que ao fim de cada Sprint será adicionado os valores correspondentes a média de conhecimento do time ao fim da Sprint.
 
 <canvas id="myChart2" width="600" height="400"></canvas>
-
-## Histórico de Revisão
-| Data | Versão | Descrição | Autor(es)|
-|:----:|:------:|:---------:|:--------:|
-| 05/05/23 | 1.0 | Adicionando sprint planning, retrospective e review | [Rennan](https://github.com/renannOgomes)|
-
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>

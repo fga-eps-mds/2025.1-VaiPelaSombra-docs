@@ -1,5 +1,12 @@
 # Guia de contribuição
 
+### Histórico de Versões
+
+|Versão|Data|Descrição|Autor(s)|
+|---|---|---|---|
+|1.0| 05/05/25 | criação inicial do documento de Guia de Contribuição|[Luana Torres](https://github.com/luanatorress)|
+
+
 ## 1. Introdução
 
 **Como contribuir para o projeto Vai Pela Sombra ?**
@@ -159,10 +166,3 @@ git commit -m "#1 feat: adicionado serviço de autenticação"
 > EQUIPE ALECTRION 2023-1. Guia de Contribuição. Disponível em: https://fga-eps-mds.github.io/2023-1-Alectrion-DOC/documentacao/guiaDeContribuicao/
 
 > CONVENTIONAL COMMITS. Conventional Commits. Disponível em: https://www.conventionalcommits.org/en/v1.0.0/
-
-
-### 4 Tabela de Versionamento
-
-|Versão|Data|Descrição|Autor(s)|
-|---|---|---|---|
-|1.0| 05/05/25 | criação inicial do documento de Guia de Contribuição|[Luana Torres](https://github.com/luanatorress)|

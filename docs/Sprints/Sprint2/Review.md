@@ -1,5 +1,10 @@
 # Review – Sprint 2
 
+## Histórico de Revisão
+| Data | Versão | Descrição | Autor(es)|
+|:----:|:------:|:---------:|:--------:|
+| 14/05 | 1.0 | Adicionando sprint planning, retrospective e review da Sprint2| [Rennan](https://github.com/renannOgomes)|
+
 ## Quando
 Essa sprint se iniciou no dia 05/05/2025 e durou 7 dias terminando dia 12/05/2025 
 
@@ -25,12 +30,6 @@ Não houve pontuação nessa sprint
 Ao fim da Sprint 2 fizemos um questionário para levantar os dados relacionados a evolução do conhecimento técnico da equipe e incrementamos a média das respostas no gráfico a baixo. 
 
 <canvas id="myChart2" width="600" height="400"></canvas>
-
-## Histórico de Revisão
-| Data | Versão | Descrição | Autor(es)|
-|:----:|:------:|:---------:|:--------:|
-| 14/05/23 | 1.0 | Adicionando sprint planning, retrospective e review da Sprint2| [Rennan](https://github.com/renannOgomes)|
-
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>

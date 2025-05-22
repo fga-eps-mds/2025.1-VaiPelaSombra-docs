@@ -1,5 +1,15 @@
 # Documento de Arquitetura
 
+### Histórico de Versões
+
+|Versão|Data|Descrição|Autor(s)|
+|---|---|---|---|
+|1.0| 25/04| criação inicial do documento de arquitetura|[Pablo Guilherme](https://github.com/PabloGJBS)|
+|1.1| 28/04| adicionando diagramas DER, DLD e de Relações e descrições do banco de dados |[Pablo Guilherme](https://github.com/PabloGJBS)|
+|1.2| 07/05| Correções para o modelo monolitico, alterações na modelagem |[Pablo Guilherme](https://github.com/PabloGJBS)|
+|1.3| 18/05| Adicionando diagramas |[Pablo Guilherme](https://github.com/PabloGJBS)|
+
+
 ## Documento de Arquitetura de Software
 
 ### 1 Introdução
@@ -307,12 +317,3 @@ Esses aspectos contribuem para a confiabilidade e longevidade da aplicação, to
 ### 8 Referências
 
 > Documento de arquitetura do projeto PC-GO1, disponivel em: https://fga-eps-mds.github.io/2021.1-PC-GO1/doc_arquitetura/
-
-### Historico de Versão
-
-|Versão|Data|Descrição|Autor(s)|
-|---|---|---|---|
-|1.0| 25/04| criação inicial do documento de arquitetura|[Pablo Guilherme](https://github.com/PabloGJBS)|
-|1.1| 28/04| adicionando diagramas DER, DLD e de Relações e descrições do banco de dados |[Pablo Guilherme](https://github.com/PabloGJBS)|
-|1.2| 07/05| Correções para o modelo monolitico, alterações na modelagem |[Pablo Guilherme](https://github.com/PabloGJBS)|
-|1.3| 18/05| Adicionando diagramas |[Pablo Guilherme](https://github.com/PabloGJBS)|

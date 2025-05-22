@@ -1,3 +1,11 @@
+# Guia de Estilo 
+
+### Histórico de Versões
+
+|Versão|Data|Descrição|Autor(s)|
+|---|---|---|---|
+|1.0| 05/05/25 | criação inicial do documento de Guia de Estilo |[Luana Torres](https://github.com/luanatorress)|
+
 <h1 style="text-align: center">Guia de Estilo</h1>
 
 
@@ -62,11 +70,3 @@ A principal tipografia deverá ser **DM Sans Bold**, utilizada para todos os tex
 ### 3 Referências
 
 > EQUIPE ALECTRION 2023-1. Guia de Estilo. Disponível em: https://fga-eps-mds.github.io/2023-1-Alectrion-DOC/documentacao/guia-de-estilo/
-
-
-### 4 Tabela de Versionamento
-
-|Versão|Data|Descrição|Autor(s)|
-|---|---|---|---|
-|1.0| 05/05/25 | criação inicial do documento de Guia de Estilo |[Luana Torres](https://github.com/luanatorress)|
-

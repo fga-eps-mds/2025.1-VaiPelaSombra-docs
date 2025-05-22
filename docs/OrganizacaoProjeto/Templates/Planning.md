@@ -2,6 +2,11 @@
 
 Este artefato tem como objetivo determinar um template da documentação de Planning do projeto.
 
+## Histórico de Versão
+| Data | Versão | Descrição | Autor(es)|
+|:----:|:------:|:---------:|:--------:|
+| 19/05 | 1.0 | Adicionando template de planning, retro e review | [Luana Torres](https://github.com/luanatorress)|
+
 ## Sprint Backlog
 Monta-se o sprint backlog, indicando as issues que estão no planejamento dessa semana para serem concluídas como no exemplo abaixo:
 
@@ -38,8 +43,3 @@ Arquiteto | [Suzane](https://github.com/suzaneaduarte)
 
 ### Exemplo - MDS
 Todos integrantes de MDS como DESENVOLVEDORES
-
-## Histórico de Versão
-| Data | Versão | Descrição | Autor(es)|
-|:----:|:------:|:---------:|:--------:|
-| 19/05/23 | 1.0 | Adicionando template de planning, retro e review | [Luana Torres](https://github.com/luanatorress)|

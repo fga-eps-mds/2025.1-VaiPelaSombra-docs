@@ -2,6 +2,14 @@
 
 A seguir é apresentado brevemente de que forma o grupo se organizou durante o desenvolvimento do projeto VaiPelaSombra, reforçando a finalidade de cada uma no contexto do projeto.
 
+## Histórico de versão
+
+|Versão|Data|Descrição|Autor(s)|
+|---|---|---|---|
+|1.0| 26/04 | Criação do gitpages e paginas iniciais |[Rennan](https://github.com/renannOgomes)|
+|2.0| 18/05 | Adiciona Metodologias utilizadas |[Suzane Duarte](https://github.com/suzaneaduarte)|
+|2.1| 18/05 | Adiciona Referências |[Suzane Duarte](https://github.com/suzaneaduarte)|
+
 ## Metodologias 
 
 ### 1. Lean inception: 
@@ -102,11 +110,3 @@ O Kanban é um sistema de controle e gestão do fluxo de trabalho. Um quadro Kan
 * Desenvolvimento Ágil. (n.d.). Desenvolvimento Ágil. Disponível em: http://www.desenvolvimentoagil.com.br/xp/
 * Práticas em XP (Extreme Programming): Principais Características. Disponível em: https://www.devmedia.com.br/praticas-em-xp-extreme-programming/29330.
 * WELLS, D. Extreme Programming: A Gentle Introduction. Disponível em: <http://www.extremeprogramming.org/>.
-
-## 6. Histórico de versão
-
-|Versão|Data|Descrição|Autor(s)|
-|---|---|---|---|
-|1.0| 26/04 | Criação do gitpages e paginas iniciais |[Rennan](https://github.com/renannOgomes)|
-|2.0| 18/05 | Adiciona Metodologias utilizadas |[Suzane Duarte](https://github.com/suzaneaduarte)|
-|2.1| 18/05 | Adiciona Referências |[Suzane Duarte](https://github.com/suzaneaduarte)|

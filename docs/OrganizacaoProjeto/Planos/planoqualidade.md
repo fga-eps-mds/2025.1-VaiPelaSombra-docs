@@ -1,5 +1,11 @@
 # Plano de Qualidade do Produto
 
+## Histórico de versão
+
+|**Data**|**Descrição**|**Autor(es)**|
+|--------|-------------|--------------|
+| 19/05/25 | Criação de plano de qualiidade do produto | [Suzane Duarte](github.com/suzaneaduarte) |
+
 ## 1. Introdução
 
 A qualidade é um dos pilares fundamentais de qualquer produto. A norma **ISO 9126** define qualidade como “a totalidade de características e critérios de um produto ou serviço que determinam sua capacidade de satisfazer necessidades declaradas ou implícitas”.
@@ -161,10 +167,3 @@ Manter um software em constante evolução é essencial para garantir sua funcio
 > [2] Importância dos testes de software na qualidade do sistema. TreinaWeb. Disponível em: https://www.treinaweb.com.br/blog/importancia-dos-testes-de-software-na-qualidade-do-sistema. Acesso em: 19 maio 2025.
 
 > [3] ISO/IEC 25010. ISO 25000. Software and data quality. 2011. Disponível em: https://iso25000.com/index.php/en/iso-25000-standards/iso-25010. Acesso em 19 maio 2025
-
-
-## 5. Histórico de versão
-
-|**Data**|**Descrição**|**Autor(es)**|
-|--------|-------------|--------------|
-| 19/05/2025 | Criação de plano de qualiidade do produto | Suzane Duarte |
