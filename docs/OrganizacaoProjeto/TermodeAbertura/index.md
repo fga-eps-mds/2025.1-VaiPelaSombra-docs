@@ -1,5 +1,11 @@
 # Termo de Abertura (TAP)
 
+## Histórico de versão
+
+|Versão|Data|Descrição|Autor(s)|
+|---|---|---|---|
+|1.0| 18/05 | Criação do Termo de Abertura  |[Suzane Duarte](https://github.com/suzaneaduarte)|
+
 ## 1. Descrição do projeto
 
 Vai Pela Sombra é um aplicativo voltado para viajantes que desejam montar itinerários personalizados de forma prática, inteligente e adaptada ao seu estilo de viagem. A proposta é fornecer uma experiência fluida e eficiente na organização de roteiros turísticos, reunindo informações relevantes, sugestões de pontos de interesse, horários otimizados e trilhas recomendadas com base nas preferências do usuário.
@@ -50,9 +56,3 @@ Viajantes autônomos, turistas urbanos, mochileiros, nômades digitais e qualque
 ## 6. Referências
 
 > [1] ARTIA. O que é o Termo de Abertura do Projeto? Como fazer? Disponível em: https://artia.com/blog/termo-de-abertura-do-projeto/. Acesso em: 18 mai. 2025.
-
-# 7. Histórico de versão
-
-|Versão|Data|Descrição|Autor(s)|
-|---|---|---|---|
-|1.0| 18/05 | Criação do Termo de Abertura  |[Suzane Duarte](https://github.com/suzaneaduarte)|

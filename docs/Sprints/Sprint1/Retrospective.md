@@ -2,7 +2,11 @@
 
 Este documento apresenta os principais resultados da retrospectiva na Sprint 1 do projeto **Vai Pela Sombra**, com base nas respostas dos membros da equipe por meio de um formulário. O objetivo da retrospectiva é refletir sobre o que funcionou bem, o que pode ser melhorado e alinhar expectativas para as próximas sprints.
 
----
+## Histórico de Revisão
+| Data | Versão | Descrição | Autor(es)|
+|:----:|:------:|:---------:|:--------:|
+| 05/05 | 1.0 | Adicionando sprint planning, retrospective e review | [Rennan](https://github.com/renannOgomes)|
+| 06/05 | 2.0 | Adicionando conteúdo da Retrospective | [Suzane](https://github.com/suzaneaduarte)|
 
 ## Avaliações Coletivas
 
@@ -131,10 +135,3 @@ Durante a Sprint vários integrantes deixaram para contribuir no projeto apenas 
 
 A Sprint 1 foi um começo promissor para o projeto, com boas práticas já sendo adotadas, como divisão de tarefas, uso de ferramentas colaborativas e apoio mútuo. Os feedbacks indicam que a equipe está engajada e consciente de seus pontos fortes e desafios. Com pequenos ajustes em planejamento, comunicação e organização, as próximas sprints tendem a ser ainda mais produtivas e colaborativas.
 
----
-
-## Histórico de Revisão
-| Data | Versão | Descrição | Autor(es)|
-|:----:|:------:|:---------:|:--------:|
-| 05/05/23 | 1.0 | Adicionando sprint planning, retrospective e review | [Rennan](https://github.com/renannOgomes)|
-| 06/05/23 | 2.0 | Adicionando conteúdo da Retrospective | [Suzane](https://github.com/suzaneaduarte)|

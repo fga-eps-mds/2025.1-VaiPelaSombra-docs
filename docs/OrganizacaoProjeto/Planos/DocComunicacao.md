@@ -1,5 +1,11 @@
 # Planejamento da comunicação externa e interna
 
+## Histórico de versão
+
+|**Data**|**Descrição**|**Autor(es)**|
+|--------|-------------|--------------|
+| 17/05/25 | Criação do documento de plano de comunicação | [Luana Torres](https://github.com/luanatorress)|
+
 ## 1. Introdução
 Este artefato possui a finalidade de definir um plano de comunicação e as tecnologias utilizadas entre as equipes de EPS e MDS e o professor João para desenvolvimento do projeto.
 
@@ -30,9 +36,3 @@ Considerando que as _sprints_ serão de 1 semana, teremos reuniões internas com
 
 
 >  EQUIPE ALECTRION 2023-1. Plano de Comunicação. Disponível em: https://fga-eps-mds.github.io/2023-1-Alectrion-DOC/plano-comunicacao/
-
-## 5. Histórico de versão
-
-|**Data**|**Descrição**|**Autor(es)**|
-|--------|-------------|--------------|
-| 17/05/2025 | Criação do documento de plano de comunicação | [Luana Torres](https://github.com/luanatorress)|

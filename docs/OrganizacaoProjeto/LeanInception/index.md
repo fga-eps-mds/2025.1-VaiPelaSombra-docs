@@ -1,5 +1,11 @@
 # Lean Inception 
 
+## Histórico de versão
+
+|Versão|Data|Descrição|Autor(s)|
+|---|---|---|---|
+|1.0| 18/05 | Adiciona conteúdo do Lean Inception |[Suzane Duarte](https://github.com/suzaneaduarte)|
+
 ## 1. Kick-Off 
 
 A etapa de Kick-off marcou o início da Lean Inception do projeto Vai Pela Sombra, sendo fundamental para alinhar todos os participantes quanto ao propósito, escopo inicial e formas de trabalho colaborativo. Esse momento foi utilizado para nivelar o conhecimento sobre o contexto da aplicação — um app voltado à criação de itinerários personalizados para viajantes — e registrar ideias soltas, hipóteses e expectativas em um mural coletivo. Essa prática de “estacionamento de ideias”, inspirada por Caroli (2018), ajuda a abrir o espaço de escuta e criatividade, e serve como insumo para dinâmicas posteriores, como definição da visão do produto e brainstorming de funcionalidades. O Kick-off, nesse contexto, serviu não apenas como uma reunião de abertura, mas sim uma etapa estruturada de alinhamento inicial em torno da ideia central do produto.
@@ -175,9 +181,3 @@ O custo e cronograma estimado para essa entrega inclui três meses de desenvolvi
 > MOURA, Victor. Planejamento incremental e priorização de entregas com sequenciador. Medium, 2022. Disponível em: https://medium.com/@victormoura/sequenciador-na-lean-inception-como-funciona-331ccf4f23b0
 
 > RIES, Eric. A Startup Enxuta: Como usar a inovação contínua para criar negócios radicalmente bem-sucedidos. Alta Books, 2012.
-
-## 6. Histórico de versão
-
-|Versão|Data|Descrição|Autor(s)|
-|---|---|---|---|
-|1.0| 18/05 | Adiciona conteúdo do Lean Inception |[Suzane Duarte](https://github.com/suzaneaduarte)|

@@ -1,5 +1,10 @@
 # Protótipo VaiPelaSombra
 
+## Histórico de Versão
+| Data | Versão | Descrição | Autor(es)|
+|:----:|:------:|:---------:|:--------:|
+| 19/05 | 1.0 | Criação do arquivo | [Pablo Guilherme](https://github.com/PabloGJBS)|
+
 ## Introdução
 
 No projeto, optou-se por iniciar diretamente a construção de um protótipo de alta fidelidade. Para viabilizar essa abordagem, a equipe de EPS elaborou um projeto modelo e conduziu um dojo com foco na ferramenta escolhida. Essa atividade teve como objetivo proporcionar uma introdução básica ao seu uso e permitir a criação colaborativa das primeiras telas do sistema.
@@ -30,9 +35,3 @@ Apresentador: Pablo Guilherme de Jesus Batista Silva
 ## Protótipo
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/IBJLJvIPZvTaPFWOWDwOpp/Prototipo-VaiPelaSombra?node-id=0-1&embed-host=share" allowfullscreen></iframe>
-
-
-## Histórico de Versão
-| Data | Versão | Descrição | Autor(es)|
-|:----:|:------:|:---------:|:--------:|
-| 19/05/23 | 1.0 | Criação do arquivo | [Pablo Guilherme](https://github.com/PabloGJBS)|

@@ -1,9 +1,16 @@
 # Planning – Sprint 1
 
-Data de Início da Sprint 1: 28/04/2025
-Data de Término da Sprint 1: 05/05/2025
+## Histórico de Revisão
+| Versão | Data | Descrição | Autor(es)|
+|:----:|:------:|:---------:|:--------:|
+| 1.0 | 05/05 | Adicionando sprint planning, retrospective e review | [Rennan](https://github.com/renannOgomes)|
+| 2.0 | 15/05 | Atualizando sprint backlog | [Rennan](https://github.com/renannOgomes)|
+| 3.0 | 18/05 | Adiciona hiperlinks e organiza tabelas |[Suzane Duarte](https://github.com/suzaneaduarte)|
 
 ## Sprint Backlog
+
+- Data de Início da Sprint 1: 28/04/2025
+- Data de Término da Sprint 1: 05/05/2025
 
 | **Issue**                                                            | **Pontuação** | **Concluído** |  **PR Relacionado**| 
 | :--------------------------------------------------------------------: | :------------- | :-----------: | :--:|
@@ -42,10 +49,3 @@ Os integrantes de MDS atuaram como desenvolvedores. Nesta primeira sprint, o foc
 |     2     |       Estevão, Juan C      |    [Pablo](https://github.com/PabloGJBS)   | Tela de oferta de voos (listagem de passagens), Cadastro de empresa, Cadastrar destino/acomodação |
 |     3     |    Camile, João L, Luiz    | [Suzane](https://github.com/suzaneaduarte) | Tela de cadastro de usuário, Editar perfil, Modal de notificações (sininho), Tela de grupo        |
 |     4     |       Gabriel, Bruno       |  [Luana](https://github.com/luanatorress)  | Avaliação, Acomodações, Acomodações específicas (estadia)                                         |
-
-## Histórico de Revisão
-| Versão | Data | Descrição | Autor(es)|
-|:----:|:------:|:---------:|:--------:|
-| 1.0 | 05/05 | Adicionando sprint planning, retrospective e review | [Rennan](https://github.com/renannOgomes)|
-| 2.0 | 15/05 | Atualizando sprint backlog | [Rennan](https://github.com/renannOgomes)|
-| 3.0 | 18/05 | Adiciona hiperlinks e organiza tabelas |[Suzane Duarte](https://github.com/suzaneaduarte)|

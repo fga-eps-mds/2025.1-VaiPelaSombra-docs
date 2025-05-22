@@ -1,9 +1,16 @@
 # Planning – Sprint 2
 
-Data de Início da Sprint 2: 05/05/2025
-Data de Término da Sprint 2: 12/05/2025
+## Histórico de Revisão
+| Data | Versão | Descrição | Autor(es)|
+|:----:|:------:|:---------:|:--------:|
+| 14/05 | 1.0 | Adicionando sprint planning, retrospective e review da Sprint2| [Rennan](https://github.com/renannOgomes)|
+| 19/05 | 1.5 | Atualizando issues da Sprint 2 | [Rennan](https://github.com/renannOgomes)|
+| 19/05 | 2.0 | Organização das tabelas | [Suzane Duarte](https://github.com/suzaneaduarte)|
 
 ## Sprint Backlog
+
+- Data de Início da Sprint 2: 05/05/2025
+- Data de Término da Sprint 2: 12/05/2025
 
 Nessa sprint, foram repassadas aos desenvolvedores duas Histórias de Usuário. 
 
@@ -49,10 +56,3 @@ Devops | [Suzane](https://github.com/suzaneaduarte)
 
 ### MDS
 Todos integrantes de MDS atuaram como Desenvolvedores. 
-
-## Histórico de Revisão
-| Data | Versão | Descrição | Autor(es)|
-|:----:|:------:|:---------:|:--------:|
-| 14/05 | 1.0 | Adicionando sprint planning, retrospective e review da Sprint2| [Rennan](https://github.com/renannOgomes)|
-| 19/05 | 1.5 | Atualizando issues da Sprint 2 | [Rennan](https://github.com/renannOgomes)|
-| 19/05 | 2.0 | Organização das tabelas | [Suzane Duarte](https://github.com/suzaneaduarte)|

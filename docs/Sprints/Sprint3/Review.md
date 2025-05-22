@@ -1,5 +1,10 @@
 # Review – Sprint 3
 
+## Histórico de Revisão
+| Data | Versão | Descrição | Autor(es)|
+|:----:|:------:|:---------:|:--------:|
+| 14/05/23 | 1.0 | Adicionando trabalho retroativo| [Suzane Duarte](https://github.com/suzaneaduarte)|
+
 ## Trabalho retroativo entregue 
 
 Houveram atividades realizadas nessa sprint que estavam alocadas para a sprint passada, porém, como não foram finalizadas, precisaram ser ajustadas para essa sprint. A seguir, um quadro do trabalho retroativo realizado nessa sprint: 
@@ -26,9 +31,3 @@ Houveram atividades realizadas nessa sprint que estavam alocadas para a sprint p
 ## Conhecimento dos Membros
 
 ## Análise do Scrum Master
-
-## Histórico de Revisão
-| Data | Versão | Descrição | Autor(es)|
-|:----:|:------:|:---------:|:--------:|
-| 14/05/23 | 1.0 | Adicionando trabalho retroativo| [Suzane Duarte](https://github.com/suzaneaduarte)|
-

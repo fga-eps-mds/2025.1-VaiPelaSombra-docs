@@ -1,9 +1,14 @@
 # Planning – Sprint 3
 
-Data de Início da Sprint 3: 12/05/2025
-Data de Término da Sprint 3: 19/05/2025
+## Histórico de Revisão
+| Data | Versão | Descrição | Autor(es)|
+|:----:|:------:|:---------:|:--------:|
+| 19/05 | 1.0 | Adicionando conteúdo da Planning da sprint 3| [Suzane Duarte](https://github.com/suzaneaduarte)|
 
 ## Sprint Backlog
+
+- Data de Início da Sprint 3: 12/05/2025
+- Data de Término da Sprint 3: 19/05/2025
 
 Nessa sprint, foram repassadas aos desenvolvedores quatro Histórias de Usuário, uma para cada squad.  
 
@@ -52,8 +57,3 @@ Todos integrantes de MDS atuaram como Desenvolvedores.
 ## Observações
 
 É preciso pontuar que apesar de não estar inserido no planejamento da sprint, algumas atividades da sprint passada foram realocadas para essa sprint por não terem sido finalizadas. Um descritivo do trabalho entregue pode ser encontrado na [Review da Sprint 3](https://fga-eps-mds.github.io/2025.1-VaiPelaSombra-docs/Sprints/Sprint3/Review/) no tópico entitulado "Trabalho retroativo entregue". 
-
-## Histórico de Revisão
-| Data | Versão | Descrição | Autor(es)|
-|:----:|:------:|:---------:|:--------:|
-| 19/05 | 1.0 | Adicionando conteúdo da Planning da sprint 3| [Suzane Duarte](https://github.com/suzaneaduarte)|

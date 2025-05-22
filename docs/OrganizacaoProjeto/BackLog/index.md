@@ -1,5 +1,13 @@
 # BackLog
 
+## Histórico de versão
+
+|Versão|Data|Descrição|Autor(s)|
+|---|---|---|---|
+|1.0| 18/05 | Criação do documento de BakLog  |[Suzane Duarte](https://github.com/suzaneaduarte)|
+
+## Introdução
+
 O Backlog do Produto é o resultado direto das decisões tomadas durante a Lean Inception do projeto Vai Pela Sombra. Ele organiza de forma hierárquica e visual os épicos, funcionalidades, histórias de usuário e critérios de aceitação que guiarão o desenvolvimento incremental da aplicação. Essa estrutura permite priorizar entregas, facilitar a comunicação entre os membros da equipe e garantir que o valor entregue ao usuário esteja sempre alinhado com os objetivos estratégicos do produto.
 
 A decomposição foi feita em cinco grandes épicos, que representam blocos centrais de valor: cadastro de usuários, itinerários, promoções, recomendações e avaliação da experiência. Cada épico foi desdobrado em funcionalidades específicas, que por sua vez foram traduzidas em histórias de usuário com critérios claros de aceitação — respeitando os princípios de clareza, valor e testabilidade. A seguir, o backlog está organizado em tabelas em Markdown, separadas por épico, para facilitar a leitura e o acompanhamento.
@@ -71,9 +79,3 @@ Durante as fases iniciais de planejamento, diversos épicos foram considerados p
 >WAKE, Bill. INVEST in Good Stories, and SMART Tasks. 2003. Disponível em: https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/
 
 >SCHWABER, Ken; SUTHERLAND, Jeff. The Scrum Guide™ – The Definitive Guide to Scrum: The Rules of the Game. Scrum.org, 2020. Disponível em: https://scrumguides.org
-
-# 3. Histórico de versão
-
-|Versão|Data|Descrição|Autor(s)|
-|---|---|---|---|
-|1.0| 18/05 | Criação do documento de BakLog  |[Suzane Duarte](https://github.com/suzaneaduarte)|
