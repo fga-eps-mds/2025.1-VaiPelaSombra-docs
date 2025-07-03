@@ -87,7 +87,11 @@ nav:
     - 6.6 Sprint 5: 
       - 6.6.1 Planning: Sprints/Sprint5/Planning.md
       - 6.6.2 Review: Sprints/Sprint5/Review.md
-      - 6.6.3 Retrospective: Sprints/Sprint5/Retrospective.md 
+      - 6.6.3 Retrospective: Sprints/Sprint5/Retrospective.md
+    - 6.7 Sprint 6: 
+      - 6.7.1 Planning: Sprints/Sprint6/Planning.md
+      - 6.7.2 Review: Sprints/Sprint6/Review.md
+      - 6.7.3 Retrospective: Sprints/Sprint6/Retrospective.md 
 
 extra_css:
   - extra.css 
