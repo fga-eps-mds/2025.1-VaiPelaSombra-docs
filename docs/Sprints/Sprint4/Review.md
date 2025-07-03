@@ -142,3 +142,8 @@ Estevão não relatou novos conhecimentos adquiridos nesta sprint além dos já 
 
 #### Conhecimentos Adquiridos na Sprint por Bruno
 Bruno relatou ter adquirido conhecimentos em **Prisma ORM** durante esta sprint. Seu processo de aprendizado envolveu o uso prático da ferramenta para realizar operações com banco de dados, consolidando sua compreensão sobre mapeamento objeto-relacional em projetos com Node.js.
+
+## Membros que não responderam: 
+
+* Vitor Guilherme
+* Guilherme 

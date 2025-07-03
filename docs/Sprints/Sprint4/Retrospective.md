@@ -5,7 +5,7 @@ Este documento apresenta os principais resultados da retrospectiva na Sprint 4 d
 ## Histórico de Revisão
 | Data | Versão | Descrição | Autor(es)|
 |:----:|:------:|:---------:|:--------:|
-| 22/05 | 1.0 | Adicionando  conteúdo da Retrospectiva | [Suzane Duarte](https://github.com/suzaneaduarte)|
+| 03/07 | 1.0 | Adicionando  conteúdo da Retrospectiva | [Suzane Duarte](https://github.com/suzaneaduarte)|
 
 ---
 
