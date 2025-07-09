@@ -1,6 +1,6 @@
 # Retrospective – Sprint 5
 
-Este documento apresenta os principais resultados da retrospectiva na Sprint 4 do projeto **Vai Pela Sombra**, com base nas respostas dos membros da equipe por meio de um formulário. O objetivo da retrospectiva é refletir sobre o que funcionou bem, o que pode ser melhorado e alinhar expectativas para as próximas sprints.
+Este documento apresenta os principais resultados da retrospectiva na Sprint 5 do projeto **Vai Pela Sombra**, com base nas respostas dos membros da equipe por meio de um formulário. O objetivo da retrospectiva é refletir sobre o que funcionou bem, o que pode ser melhorado e alinhar expectativas para as próximas sprints.
 
 ## Histórico de Revisão
 | Data | Versão | Descrição | Autor(es)|

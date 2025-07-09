@@ -31,10 +31,10 @@ Ao final de cada sprint, os membros são orientados a responder um questionário
 | Tecnologia / Ferramenta      | Nível Sprint 4 | Nível Sprint 5 |
 |------------------------------|-------|-------------|
 | Scrum / XP                   | 3     |4|
-| GitHub                       | 4     |5|
+| GitHub                       | 4     |4|
 | Figma                        | 4     |4|
-| Docker / Docker Compose      | 2     |4|
-| TypeScript                   | 4     |5|
+| Docker / Docker Compose      | 2     |3|
+| TypeScript                   | 4     |4|
 | Node.js                      | 4     |4|
 | React                        | 3     |3|
 
@@ -45,15 +45,15 @@ Camile não registrou novos conhecimentos adquiridos nesta sprint além dos já 
 
 #### Níveis de Conhecimento (1 a 5) de Juan
 
-| Tecnologia / Ferramenta      | Nível |
-|------------------------------|-------|
-| Scrum / XP                   | 1     |
-| GitHub                       | 5     |
-| Figma                        | 3     |
-| Docker / Docker Compose      | 3     |
-| TypeScript                   | 3     |
-| Node.js                      | 3     |
-| React                        | 3     |
+| Tecnologia / Ferramenta      | Nível Sprint 4 | Nível Sprint 5 |
+|------------------------------|-------|-----------|
+| Scrum / XP                   | 1     |-|
+| GitHub                       | 5     |-|
+| Figma                        | 3     |-|
+| Docker / Docker Compose      | 3     |-|
+| TypeScript                   | 3     |-|
+| Node.js                      | 3     |-|
+| React                        | 3     |-|
 
 #### Conhecimentos Adquiridos na Sprint por Juan
 Juan não registrou novos conhecimentos adquiridos nesta sprint além dos já avaliados nas ferramentas e tecnologias listadas.
