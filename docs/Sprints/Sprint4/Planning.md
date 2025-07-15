@@ -19,6 +19,9 @@ Presentes na Reunião:
 - Pablo Guilherme [EPS]
 - Suzane [EPS]
 
+Justificativas dos membros faltantes: 
+- João Felipe justificou que o professor de PCE1 passou um trabalho que levou muito tempo para realização, inclusive, durante o horário da reunião. 
+
 ## Resumo 
 
 Data de Início da Sprint 4: 19/05/2025

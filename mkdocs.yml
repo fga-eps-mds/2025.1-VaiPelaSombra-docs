@@ -99,7 +99,19 @@ nav:
     - 6.8 Sprint 7: 
       - 7.8.1 Planning: Sprints/Sprint7/Planning.md
       - 7.8.2 Review: Sprints/Sprint7/Review.md
-      - 7.8.3 Retrospective: Sprints/Sprint7/Retrospective.md 
+      - 7.8.3 Retrospective: Sprints/Sprint7/Retrospective.md
+    - 6.9 Sprint 8: 
+      - 8.8.1 Planning: Sprints/Sprint8/Planning.md
+      - 8.8.2 Review: Sprints/Sprint8/Review.md
+      - 8.8.3 Retrospective: Sprints/Sprint8/Retrospective.md 
+    - 6.10 Sprint 9: 
+      - 9.8.1 Planning: Sprints/Sprint8/Planning.md
+      - 9.8.2 Review: Sprints/Sprint8/Review.md
+      - 9.8.3 Retrospective: Sprints/Sprint8/Retrospective.md 
+    - 6.11 Sprint 10: 
+      - 10.8.1 Planning: Sprints/Sprint10/Planning.md
+      - 10.8.2 Review: Sprints/Sprint10/Review.md
+      - 10.8.3 Retrospective: Sprints/Sprint10/Retrospective.md 
 
 extra_css:
   - extra.css 
