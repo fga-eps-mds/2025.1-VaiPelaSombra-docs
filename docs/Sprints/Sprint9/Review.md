@@ -141,7 +141,7 @@ Estevão não relatou novos conhecimentos adquiridos nesta sprint além dos já 
 | React                        | 3     |3|3|3|4|4|
 
 #### Conhecimentos Adquiridos na Sprint por Bruno
-Bruno relatou ter adquirido conhecimentos sobre lidar com o upload de imagens e suas respectivas validações. 
+Bruno relatou ter adquirido conhecimentos sobre lidar testes. 
 
 ### Vitor Guilherme Lustosa de Carvalho
 

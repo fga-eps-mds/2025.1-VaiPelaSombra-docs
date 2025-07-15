@@ -71,6 +71,7 @@ nav:
     - 5.1. Guia de Contribuição: DocGuiaDeContribuicao/index.md
     - 5.2. Guia de Conduta: Politicas/guiaConduta.md
   - 6. Sprints:
+    - 6.0 Entregas: Sprints/Entregas.md
     - 6.1 Acompanhamento de Valor Agregado: Sprints/DocValorAgregado/index.md
     - 6.2 Sprint 1: 
       - 6.2.1 Planning: Sprints/Sprint1/Planning.md
