@@ -113,6 +113,8 @@ nav:
       - 10.8.1 Planning: Sprints/Sprint10/Planning.md
       - 10.8.2 Review: Sprints/Sprint10/Review.md
       - 10.8.3 Retrospective: Sprints/Sprint10/Retrospective.md 
+  - 7. Sonar: 
+    - 7.1. Sonar: Sonar/index.md
 
 extra_css:
   - extra.css 
