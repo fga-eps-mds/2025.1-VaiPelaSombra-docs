@@ -5,13 +5,16 @@
 |Versão|Data|Descrição|Autor(s)|
 |---|---|---|---|
 |1.0| 05/05/25 | criação inicial do documento de Guia de Contribuição|[Luana Torres](https://github.com/luanatorress)|
+|1.1| 14/07/25 | Adiciona guia de conduta|[Luana Torres](https://github.com/luanatorress)|
 
 
 ## 1. Introdução
 
 **Como contribuir para o projeto Vai Pela Sombra ?**
 
-Siga as diretrizes abaixo.
+Antes de qualquer coisa, revise nosso [Código de Conduta](../Politicas/guiaConduta.md). Ele estabelece as diretrizes para um ambiente respeitoso, inclusivo e colaborativo. Esperamos que todos os colaboradores o sigam em suas interações. 
+
+Após a leitura do guia, siga as diretrizes abaixo.
 
 ## 2. Diretrizes para contribuir
 
