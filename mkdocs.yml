@@ -67,7 +67,9 @@ nav:
     - 3.1. BackEnd Estrutura: BackEnd/index.md
     - 3.2. BackEnd Dojos: BackEnd/Dojos/index.md
   - 4. Documento de Arquitetura: DocArquitetura/DocumentoArquitetura.md
-  - 5. Guia de Contribuição: DocGuiaDeContribuicao/index.md
+  - 5. Políticas do Repositório:
+    - 5.1. Guia de Contribuição: DocGuiaDeContribuicao/index.md
+    - 5.2. Guia de Conduta: Politicas/guiaConduta.md
   - 6. Sprints:
     - 6.1 Acompanhamento de Valor Agregado: Sprints/DocValorAgregado/index.md
     - 6.2 Sprint 1: 

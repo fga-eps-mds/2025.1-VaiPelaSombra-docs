@@ -5,6 +5,7 @@
 |Versão|Data|Descrição|Autor(s)|
 |---|---|---|---|
 |1.0| 18/05 | Adiciona conteúdo do Lean Inception |[Suzane Duarte](https://github.com/suzaneaduarte)|
+|1.1| 15/07 | Adiciona versão nova do sequenciador alinhando novo MVP |[Luana Torres](https://github.com/luanatorress)|
 
 ## 1. Kick-Off 
 
@@ -155,6 +156,10 @@ Primeira versão:
 Segunda versão, após ajustes no escopo: 
 
 ![Sequenciador](../assets/sequenciador.png)
+
+Terceira versão, após ajuste de escopo em 10/06/2025
+
+![Sequenciador](../assets/sequenciador-v3.png)
 
 <p style="text-align: center;"><em>Fonte: <a href="https://www.figma.com/board/TkllK6PIqr8cWuma3P36RG/Template-Lean-Inception---Backup?node-id=14945-1604&t=B6kTRge9GEBdl8zj-0">Template Lean Inception VaiPelaSombra</a></em></p>
 
