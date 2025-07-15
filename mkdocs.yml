@@ -55,7 +55,9 @@ nav:
       - 6.2. Retrospective: OrganizacaoProjeto/Templates/Retro.md
       - 6.3. Review: OrganizacaoProjeto/Templates/Review.md
     - 7. Prototipo: OrganizacaoProjeto/Prototipo/prototipo.md
-    - 8. Riscos: OrganizacaoProjeto/Riscos/Riscos.md
+    - 8. Riscos: 
+      - 1. Tabelas de Riscos: OrganizacaoProjeto/Riscos/Riscos.md
+      - 2. Mitigação de Riscos: OrganizacaoProjeto/Riscos/MitigacaoRiscos.md
     - 9. Gráfico de Gantt: OrganizacaoProjeto/gantt.md
   - 2. FrontEnd: 
     - 2.1. FrontEnd Estrutura: FrontEnd/index.md
