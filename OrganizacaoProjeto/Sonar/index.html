@@ -9,6 +9,8 @@
       
       
       
+        <link rel="prev" href="../../Sprints/Sprint10/Retrospective/">
+      
       
       
       <link rel="icon" href="../../../../img/logopequenaVaiPelaSombra.jpeg">
@@ -16,7 +18,7 @@
     
     
       
-        <title>Análise SonarCloud - VaiPelaSombra</title>
+        <title>7.1. Sonar - VaiPelaSombra</title>
       
     
     
@@ -105,7 +107,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Análise SonarCloud
+              7.1. Sonar
             
           </span>
         </div>
@@ -2286,18 +2288,20 @@
       
   
   
+    
   
   
+  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" checked>
         
           
           <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
@@ -2313,7 +2317,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_8">
             <span class="md-nav__icon md-icon"></span>
             7. Sonar
@@ -2324,10 +2328,32 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../Sonar/index.md" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    7.1. Sonar
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -2338,6 +2364,86 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-revisao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Revisão
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#analise-de-qualidade-de-codigo-sonarcloud" class="md-nav__link">
+    <span class="md-ellipsis">
+      Análise de Qualidade de Código – SonarCloud
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resumo-das-metricas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resumo das Métricas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Resumo das Métricas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#frontend-20251-vaipelasombra-frontend" class="md-nav__link">
+    <span class="md-ellipsis">
+      Frontend (2025.1-VaiPelaSombra-FrontEnd)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#backend-20251-vaipelasombra-backend" class="md-nav__link">
+    <span class="md-ellipsis">
+      Backend (2025.1-VaiPelaSombra-BackEnd)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#proximas-acoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Próximas Ações
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -2478,7 +2584,6 @@
 <h2 id="resumo-das-metricas">Resumo das Métricas</h2>
 <p>Abaixo estão os principais indicadores extraídos da análise mais recente realizada em <strong>15/07/2025</strong>.</p>
 <h3 id="frontend-20251-vaipelasombra-frontend">Frontend (<code>2025.1-VaiPelaSombra-FrontEnd</code>)</h3>
-<p><img alt="Frontend SonarCloud" src="../assets/sonar-frontend.png" /></p>
 <ul>
 <li><strong>Linhas de código</strong>: 4.4k (TypeScript, CSS)</li>
 <li><strong>Security</strong>: A (0 issues)</li>
@@ -2489,10 +2594,9 @@
 <li><strong>Duplicações</strong>: 0.0%</li>
 <li><strong>Status</strong>: ❌ Failed</li>
 </ul>
-<p>🔎 <strong>Motivo da falha</strong>: A cobertura de testes automatizados está em apenas <strong>30.3%</strong>, abaixo da meta mínima de <strong>80%</strong>, definida como padrão de qualidade pelo SonarCloud. Além disso, há <strong>10 alertas de confiabilidade</strong> (Reliability issues) que precisam ser revisados.</p>
+<p><strong>Motivo da falha</strong>: A cobertura de testes automatizados está em apenas <strong>30.3%</strong>, abaixo da meta mínima de <strong>80%</strong>, definida como padrão de qualidade pelo SonarCloud. Além disso, há <strong>10 alertas de confiabilidade</strong> (Reliability issues) que precisam ser revisados.</p>
 <hr />
 <h3 id="backend-20251-vaipelasombra-backend">Backend (<code>2025.1-VaiPelaSombra-BackEnd</code>)</h3>
-<p><img alt="Backend SonarCloud" src="../assets/sonar-backend.png" /></p>
 <ul>
 <li><strong>Linhas de código</strong>: 1.9k (TypeScript)</li>
 <li><strong>Security</strong>: A (0 issues)</li>
@@ -2503,7 +2607,7 @@
 <li><strong>Duplicações</strong>: 0.8%</li>
 <li><strong>Status</strong>: ❌ Failed</li>
 </ul>
-<p>🔎 <strong>Motivo da falha</strong>: Embora o backend tenha boas métricas de segurança, confiabilidade e manutenibilidade, a <strong>cobertura de testes ainda está em 64.8%</strong>, abaixo da meta estabelecida de 80%.</p>
+<p><strong>Motivo da falha</strong>: Embora o backend tenha boas métricas de segurança, confiabilidade e manutenibilidade, a <strong>cobertura de testes ainda está em 64.8%</strong>, abaixo da meta estabelecida de 80%.</p>
 <hr />
 <h2 id="proximas-acoes">Próximas Ações</h2>
 <p>Para melhorar a qualidade do projeto e alcançar aprovação nas análises do SonarCloud, as seguintes ações foram levantadas pela equipe: </p>
