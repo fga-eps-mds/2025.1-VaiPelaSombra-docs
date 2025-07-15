@@ -17,8 +17,6 @@ Abaixo estão os principais indicadores extraídos da análise mais recente real
 
 ### Frontend (`2025.1-VaiPelaSombra-FrontEnd`)
 
-![Frontend SonarCloud](../assets/sonar-frontend.png)
-
 - **Linhas de código**: 4.4k (TypeScript, CSS)
 - **Security**: A (0 issues)
 - **Reliability**: C (10 issues)
@@ -28,13 +26,11 @@ Abaixo estão os principais indicadores extraídos da análise mais recente real
 - **Duplicações**: 0.0%
 - **Status**: ❌ Failed
 
-🔎 **Motivo da falha**: A cobertura de testes automatizados está em apenas **30.3%**, abaixo da meta mínima de **80%**, definida como padrão de qualidade pelo SonarCloud. Além disso, há **10 alertas de confiabilidade** (Reliability issues) que precisam ser revisados.
+**Motivo da falha**: A cobertura de testes automatizados está em apenas **30.3%**, abaixo da meta mínima de **80%**, definida como padrão de qualidade pelo SonarCloud. Além disso, há **10 alertas de confiabilidade** (Reliability issues) que precisam ser revisados.
 
 ---
 
 ### Backend (`2025.1-VaiPelaSombra-BackEnd`)
-
-![Backend SonarCloud](../assets/sonar-backend.png)
 
 - **Linhas de código**: 1.9k (TypeScript)
 - **Security**: A (0 issues)
@@ -45,7 +41,7 @@ Abaixo estão os principais indicadores extraídos da análise mais recente real
 - **Duplicações**: 0.8%
 - **Status**: ❌ Failed
 
-🔎 **Motivo da falha**: Embora o backend tenha boas métricas de segurança, confiabilidade e manutenibilidade, a **cobertura de testes ainda está em 64.8%**, abaixo da meta estabelecida de 80%.
+**Motivo da falha**: Embora o backend tenha boas métricas de segurança, confiabilidade e manutenibilidade, a **cobertura de testes ainda está em 64.8%**, abaixo da meta estabelecida de 80%.
 
 ---
 
