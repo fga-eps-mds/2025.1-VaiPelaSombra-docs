@@ -34,7 +34,7 @@ Houve uma separação em duas frentes, uma de membros que ainda não realizaram 
 | :--------------------------------------------------------------------: | :------------- | :-----------: | 
 | Aumentar cobertura de Testes | 3 |       [Testes](https://github.com/fga-eps-mds/2025.1-VaiPelaSombra-docs/issues/51)       | 
 | US 1 Cadastro de usuário - INTEGRAÇÃO | 2 |       [Integração US 1](https://github.com/fga-eps-mds/2025.1-VaiPelaSombra-docs/issues/12)       | 
-| US 8 Criar Grupo de Viages - INTEGRAÇÃO | | 3 |   [US 8](https://github.com/fga-eps-mds/2025.1-VaiPelaSombra-docs/issues/20)|      | 
+| US 8 Criar Grupo de Viages - INTEGRAÇÃO | 3 |  [US 8](https://github.com/fga-eps-mds/2025.1-VaiPelaSombra-docs/issues/20)|  
 | US 10 - INTEGRAÇÃO | 3 |       [US 14](https://github.com/fga-eps-mds/2025.1-VaiPelaSombra-docs/issues/32) | 
 | US 14 Transporte de Viagens - INTEGRAÇÃO | 4 |       [US 14](https://github.com/fga-eps-mds/2025.1-VaiPelaSombra-docs/issues/22) | 
 | Implementação correta da NavBar | 2 |       [US 14](https://github.com/fga-eps-mds/2025.1-VaiPelaSombra-docs/issues/22) | 
